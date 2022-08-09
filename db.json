@@ -11,21 +11,21 @@
             "id": 2,
             "name": "João",
             "race": "SRD",
-            "img_url" : "./assets/gato1.jpg"
+            "img_url" : "https://www.petz.com.br/blog/wp-content/uploads/2017/04/comportamento-dos-gatos-1.jpg"
         },
 
         {
             "id": 3,
             "name": "Adolfo",
             "race": "Siamês",
-            "img_url" : "./assets/gato2.jpg"
+            "img_url" : "https://t1.uc.ltmcdn.com/pt/posts/7/7/5/como_cuidar_de_um_gato_siames_19577_orig.jpg"
         },
 
         {
             "id": 4,
             "name": "Rajadinhu",
             "race": "SRD",
-            "img_url" : "./assets/gato4.jpg"
+            "img_url" : "https://super.abril.com.br/wp-content/uploads/2020/09/04-09_gato_SITE.jpg"
         }
 
     ],
